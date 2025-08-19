@@ -1,6 +1,6 @@
 # Engage2Value-From-Clicks-to-Conversions-MLP-Project
 
-This project consists of a regression model which predicts a Customer's purchase value based on their multi-session behaviour.
+This project consists of a classification + regression model which predicts a Customer's purchase value based on their multi-session behaviour using scikit-learn.
 
 Secured a Rank of 25 out of 1800 Participants with a r2 score of 0.72818
 
